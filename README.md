@@ -16,3 +16,6 @@ This project implements a Machine Learning-based **Intrusion Detection System (I
    ```bash
    git clone https://github.com/your-username/Intrusion-Detection-System.git
    cd Intrusion-Detection-System
+
+---
+
